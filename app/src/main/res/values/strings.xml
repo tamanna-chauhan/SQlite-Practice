@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SQlite</string>
+    <string name="name">NAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="button">Button</string>
+    <string name="phone_no">PHONE NO.</string>
+    <string name="type">TYPE</string>
+    <string name="name_1">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="enter_no">Enter no.</string>
+    <string name="student_or_inst">Student or inst</string>
+    <string name="name_1">Name</string>
+    <string name="button_1">Button</string>
+    <string name="button_2">Button</string>
+    <string name="enter_name1">enter Name</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+</resources>
